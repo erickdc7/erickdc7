@@ -22,6 +22,8 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 
 
 
+
+
 <!---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdc7&layout=compact)](https://github.com/erickdc7/github-readme-stats)
