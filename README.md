@@ -9,8 +9,15 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 - [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
 - [Anime Kyu](https://github.com/erickdc7/Anime-Kyu)
 
+## Skills
+- 👨‍💻 HTML5
+- 👁️ CSS3
+- ⚙️ JavaScript
+- 🖌️ Figma
+- 💫 React
 
-
+## Contact
+- You can send me a message to this [email](erickdiazc717@gmail.com).
 
 <!---
 erickdc7/erickdc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
