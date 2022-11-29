@@ -3,6 +3,7 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 
 - 👀 I’m interested in Front End Development and React
 - 🌱 I’m currently learning UI/UX Design and Figma
+- 📫 How to reach me erickdiazc717@gmail.com
 
 ## Projects
 - [Suikanime](https://github.com/erickdc7/Suikanime)
