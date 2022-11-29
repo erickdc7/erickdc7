@@ -5,9 +5,9 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 - 🌱 I’m currently learning UI/UX Design and Figma
 
 ## Projects
-- [Suikanime](erickdc7.github.io/Suikanime/)
-- [Cesar Vallejo Tribute](erickdc7.github.io/Cesar-Vallejo-Tribute/)
-- [Anime Kyu](erickdc7.github.io/Anime-Kyu/)
+- [Suikanime](https://github.com/erickdc7/Suikanime)
+- [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
+- [Anime Kyu](https://github.com/erickdc7/Anime-Kyu)
 
 
 
