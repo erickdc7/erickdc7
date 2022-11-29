@@ -17,9 +17,14 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
+## Stats
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickdc7&show_icons=true&bg_color=00000000)
+
 
 
 <!---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdc7&layout=compact)](https://github.com/erickdc7/github-readme-stats)
 
 ## Skills
 - 👨‍💻 HTML5
