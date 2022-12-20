@@ -6,6 +6,7 @@ I am currently in the sixth cycle of the Software Engineering degree at the Tech
 - 📫 How to reach me erickdiazc717@gmail.com
 
 ## Projects
+- [Rick and Morty API](https://github.com/erickdc7/rickmorty-eddy)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
 - [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
 - [Anime Kyu](https://github.com/erickdc7/Anime-Kyu)
