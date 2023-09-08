@@ -1,4 +1,3 @@
-<!---
 # Hi, I'm Erick👋👨‍💻
 I am currently in the sixth cycle of the Software Engineering career. I'm focusing on learning frontend web development and UI/UX design. I am a responsible person, committed to my work, eager to learn and apply the knowledge acquired.
 
