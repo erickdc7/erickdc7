@@ -9,7 +9,8 @@ I am currently in the eighth cycle of the Software Engineering career. I'm focus
 - [Rick and Morty API](https://github.com/erickdc7/rickmorty-eddy)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
 - [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
-- [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus) 
+- [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
+- [Calcular Promedio](hhttps://github.com/erickdc7/calcular-promedio) 
 <!---- [Anime Kyu](https://github.com/erickdc7/Anime-Kyu)
 
 ## Skills
