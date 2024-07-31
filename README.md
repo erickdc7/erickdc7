@@ -10,7 +10,7 @@ I am currently in the eighth cycle of the Software Engineering career. I'm focus
 - [Suikanime](https://github.com/erickdc7/Suikanime)
 - [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
 - [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
-- [Calcular Promedio](hhttps://github.com/erickdc7/calcular-promedio) 
+- [Calcular Promedio](https://github.com/erickdc7/calcular-promedio)
 <!---- [Anime Kyu](https://github.com/erickdc7/Anime-Kyu)
 
 ## Skills
