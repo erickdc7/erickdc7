@@ -79,6 +79,11 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 - [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
 - [Calcular Promedio](https://github.com/erickdc7/calcular-promedio)
 
+## Links:
+[![Website](https://img.shields.io/badge/Website-erickdiaz--portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://erickdiaz-portafolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erick--diaz--c17-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/erick-diaz-c17/)
+[![X](https://img.shields.io/badge/-erickdddc-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/erickdddc)
+
 ## Contact:
 
 [![Email](https://img.shields.io/badge/erickdiazc717@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:erickdiazc717@gmail.com)
