@@ -13,7 +13,7 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=erickdc7&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
-## Technologies:
+## Technologies
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -79,13 +79,11 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 - [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
 - [Calcular Promedio](https://github.com/erickdc7/calcular-promedio)
 
-## Links:
+## Links
 [![Website](https://img.shields.io/badge/Website-erickdiaz--portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://erickdiaz-portafolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erick--diaz--c17-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/erick-diaz-c17/)
 [![X](https://img.shields.io/badge/-erickdddc-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/erickdddc)
 
-## Contact:
+## Contact
 
 [![Email](https://img.shields.io/badge/erickdiazc717@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:erickdiazc717@gmail.com)
-
-
