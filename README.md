@@ -11,7 +11,7 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 
 ### Web Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erickdc7&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erickdc7&theme=highcontrast&hide_border=true&exclude_days=Sun%2CSat&card_width=467)
 
 ## Technologies
 
