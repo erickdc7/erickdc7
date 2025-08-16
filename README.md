@@ -90,6 +90,8 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 
 [![Email](https://img.shields.io/badge/erickdiazc717@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:erickdiazc717@gmail.com)
 
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
