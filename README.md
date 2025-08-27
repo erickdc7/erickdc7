@@ -8,10 +8,10 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 - 🌱 Continuously exploring UI/UX principles, accessibility best practices, and user-centered design.
 - 🌿 Committed to both personal and professional growth.
 - ⌛ Interested in habits, productivity, and lifelong learning.
-
+<!--
 ### Web Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erickdc7&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=erickdc7&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)-->
 
 ## Technologies
 
