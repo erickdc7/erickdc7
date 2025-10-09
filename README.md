@@ -74,6 +74,7 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 ## Projects
 
 - [Rick and Morty API](https://github.com/erickdc7/rickmorty-eddy)
+- [Country Explorer](https://github.com/erickdc7/country-explorer)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
 - [Cesar Vallejo Tribute](https://github.com/erickdc7/Cesar-Vallejo-Tribute)
 - [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
