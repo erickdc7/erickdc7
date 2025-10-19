@@ -73,12 +73,14 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 
 ## Projects
 
-- [Rick and Morty API](https://github.com/erickdc7/rickmorty-eddy)
+- [Cesar Vallejo](https://github.com/erickdc7/cesar-vallejo-website)
 - [Country Explorer](https://github.com/erickdc7/country-explorer)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
-- [Cesar Vallejo](https://github.com/erickdc7/cesar-vallejo-website)
+- [Rick and Morty](https://github.com/erickdc7/rickmorty-eddy)
+- [Calculo de Promedios](https://github.com/erickdc7/calcular-promedio)
 - [Accesibilidad+](https://github.com/erickdc7/accesibilidad-plus)
-- [Calcular Promedio](https://github.com/erickdc7/calcular-promedio)
+- [Cifrado APP](https://github.com/erickdc7/cifrado-app)
+- [Juego de Preguntas](https://github.com/erickdc7/juego-preguntas)
 
 ## Links
 [![Website](https://img.shields.io/badge/Website-erickdiaz--portafolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://erickdiaz-portafolio.netlify.app/)
