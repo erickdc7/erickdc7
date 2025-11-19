@@ -73,6 +73,7 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 
 ## Projects
 
+- [La Casa del Alfajor](https://github.com/erickdc7/la-casa-del-alfajor)
 - [Cesar Vallejo](https://github.com/erickdc7/cesar-vallejo-website)
 - [Country Explorer](https://github.com/erickdc7/country-explorer)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
