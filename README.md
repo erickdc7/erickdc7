@@ -76,6 +76,7 @@ I'm a frontend web developer passionate about creating clean, responsive, and us
 - [La Casa del Alfajor](https://github.com/erickdc7/la-casa-del-alfajor)
 - [Cesar Vallejo](https://github.com/erickdc7/cesar-vallejo-website)
 - [Country Explorer](https://github.com/erickdc7/country-explorer)
+- [Cloudsy](https://github.com/erickdc7/cloudsy)
 - [Suikanime](https://github.com/erickdc7/Suikanime)
 - [Rick and Morty](https://github.com/erickdc7/rickmorty-eddy)
 - [Calculo de Promedios](https://github.com/erickdc7/calcular-promedio)
