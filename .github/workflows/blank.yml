@@ -1,39 +1,21 @@
-name: generate breakout svg
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  generate-svg:
-    permissions:
-      contents: write
+  update-game:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: generate SVG
-        uses: cyprieng/github-breakout@v1.0.0
+      - uses: czl9707/gh-space-shooter@v1
         with:
-          github_username: ${{ github.repository_owner }}
-
-      - name: Move generated SVGs
-        run: |
-          mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
-
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push SVGs
-        run: |
-          git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
